@@ -50,10 +50,10 @@ The tasks span **Beginner** and **Intermediate** levels, showcasing both foundat
    ```bash
    git clone https://github.com/YourUsername/python-internship-projects.git
    cd python-internship-projects
-   python calculator.py
-   python guessing_game.py
-   python todo.py
-   python scraper.py
+   python basic_calculator.py
+   python Number_guess_game.py
+   python to_do_list.py
+   python web_scraper.py
  2.Install dependencies (for scraper):
     pip install requests beautifulsoup4
  
